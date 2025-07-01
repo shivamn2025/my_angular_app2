@@ -8,4 +8,5 @@ import { Component } from '@angular/core';
 export class CarIncComponent {
   public getOwnerDetail: any;
   public getCarDetails:any;
+  public getCarPrice:any;
 }
